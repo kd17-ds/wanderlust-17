@@ -50,10 +50,6 @@ The Wanderlust application is ideal for users who are interested in discovering 
 
 This was basically my first Full-Stack-Project, So every single feature was a new challenge for me, So i have overcome a lot of Problems.
 
-### Solution
-
-With the help and guidance of Apna College, I Successfully completed the project.
-
 ## Links
 
 - [Live Website](https://wanderlust-17.onrender.com/)
